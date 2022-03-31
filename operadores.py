@@ -12,5 +12,3 @@ elif num1%2==0 and num2%2!=0:
 
 else:
     print("Tus números son impares")
-    
-
